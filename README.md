@@ -1,3 +1,4 @@
+  A hobby project. Complete Filipino guide for Adulting.
 
   # Adulting PH
 
